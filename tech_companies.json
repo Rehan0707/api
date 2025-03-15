@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "industry": "Consumer Electronics",
+      "founded": 1976,
+      "headquarters": "Cupertino, California, USA",
+      "products": ["iPhone", "MacBook", "iPad", "Apple Watch"],
+      "website": "https://www.apple.com"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Software",
+      "founded": 1975,
+      "headquarters": "Redmond, Washington, USA",
+      "products": ["Windows", "Microsoft Office", "Azure", "Xbox"],
+      "website": "https://www.microsoft.com"
+    },
+    {
+      "name": "Google",
+      "industry": "Search Engine, Advertising, Cloud Computing",
+      "founded": 1998,
+      "headquarters": "Mountain View, California, USA",
+      "products": ["Google Search", "YouTube", "Android", "Google Cloud"],
+      "website": "https://www.google.com"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce, Cloud Computing",
+      "founded": 1994,
+      "headquarters": "Seattle, Washington, USA",
+      "products": ["Amazon.com", "AWS", "Alexa", "Kindle"],
+      "website": "https://www.amazon.com"
+    },
+    {
+      "name": "Tesla",
+      "industry": "Electric Vehicles, Clean Energy",
+      "founded": 2003,
+      "headquarters": "Palo Alto, California, USA",
+      "products": ["Model S", "Model 3", "Model X", "Powerwall"],
+      "website": "https://www.tesla.com"
+    }
+  ]
+}
